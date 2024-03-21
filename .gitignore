@@ -10,8 +10,3 @@ node_modules;
 *.apks;
 
 
-# Ignore arquivos relacionados às chaves de API
-.env
-
-# Ignore arquivos de configuração de SASS
-.sass-cache
